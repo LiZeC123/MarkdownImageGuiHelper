@@ -9,7 +9,6 @@ namespace MarkdownImageGuiHelper
 {
     public partial class Form1 : Form
     {
-        // 三级结构, root, prefix, filename, 必须手动组合
         public Form1()
         {
             InitializeComponent();
