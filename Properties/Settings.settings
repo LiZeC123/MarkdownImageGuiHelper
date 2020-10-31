@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MarkdownImageGuiHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ArticleImageLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../images/</Value>
+    </Setting>
+    <Setting Name="SlideImageLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../_slides/images/</Value>
+    </Setting>
+    <Setting Name="LastPrefix" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
